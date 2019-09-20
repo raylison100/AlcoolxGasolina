@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlcoolxGasolina</string>
+    <string name="eTGasolina">Gasoline</string>
+    <string name="eTAlcool">alcohol</string>
+    <string name="btCalculo">calculate</string>
+    <string name="resultadoAlcool">The best option is alcohol.</string>
+    <string name="resultadoGasolina">The best option is gasoline.</string>
+    <string name="resultadoInvalido">Enter valid values!</string>
+</resources>
